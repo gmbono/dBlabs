@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>dB LABs Sales</title>
+   <link rel="stylesheet" href="ab_style.css">
+</head>
+  
+
+    <body>   
+
+      <header>
+        <h1> About </h1>
+      </header>
+    <nav>
+      <ul class="drop">
+          <li><a href="#">Menu</a>
+              <ul>
+                  <li><a href="index.html">Home</a></li>
+                  <li><a href="repair.html">Repair</a></li>
+                  <li><a href="sales.html">Sales</a></li>
+                  <li><a href="gallery.html">Gallery</a></li>
+                  <li><a href="project.html">Projects</a></li>
+              </ul>
+             </li>
+           </ul>
+        </nav>
+      
+      <p>
+         Welcome to dB Labs where we repair, restore and customize your gear. Contact me if there are any questions regarding repairs and sales.
+      </p>
+         
+      <main class="container center-content">
+          <div class="content-wrapper"> 
+          <figure>
+             <img src="images/Joel.JPG" alt="Custom Cab" width="300" id="img1">
+             <figcaption>Joel's Cab
+             </figcaption>
+          </figure>    
+           
+            <p class="words">
+           George Bono has been working on electronic gear since the late sixties. His career, as an electronics engineer, spans over 40 years while working for Fairchild Semiconductor, Hewlett Packard, THX and Keysight Technologies. Musical instrument, professional sound reinforcement and Hi-Fi gear have always been his passion. He strives to deliver the most cost effective, creative and reliable solutions - regardless of technology. 
+          </p>           
+         </div>
+      </main>
+        
+      <p>
+         This site is dedicated to the memory of Douglas "Enzo" McCallum - all rights reserved.
+      </p>
+        <footer>
+          <a class=project href="project.html">Projects</a>
+          <a class=home href="index.html">Home</a>
+          <a class=repairs href="repair.html">Repairs</a>
+          <a class=sales href="sales.html">Sales</a>
+          <a class=gallery href="gallery.html">Gallery</a>
+         
+         </footer>
+     
+  </body>
+</html>
+
