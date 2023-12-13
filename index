@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>dB LABs</title>
+  <link rel="stylesheet" href="style.css">
+     </head>
+ 
+ <body>
+   
+     <h1>dB LABs</h1>
+      <nav>
+      <ul class="drop">
+          <li><a href="#"> Menu </a>
+              <ul>
+                  <li><a href="gallery.html">Gallery</a></li>
+                  <li><a href="repair.html">Repair</a></li>
+                  <li><a href="project.html">Projects</a></li>
+                  <li><a href="sales.html">Sales</a></li>
+                  <li><a href="about.html">About</a></li>
+              </ul>
+             </li>
+           </ul>
+        </nav>
+     
+      <div class="container">
+      <header>
+        <h2>Amplifier Rescue</h2>
+        </header>
+    <article class="summary">
+      <h2>Mission</h2>
+      <p>
+        My goal is support musicans and collectors, who use vintage and current production equipment, and are looking for quality, cost effective and timely - repairs or restoration. 
+      </p>
+    </article>
+        <main>
+    <article>
+      <h2>The Work</h2>
+     <ul>
+       <li>
+        Phone consultation: No charge​
+         </li>
+        <li>
+        Diagnosis – $50 for 1 hour minimum<br>
+         </li>
+       <li>
+        Amp testing, research problem
+        If I repair the amp in the same hour, $50 fee applies.<br>
+
+        If along the way I discover a repair is much more complex than anticipated, I stop and return the amp, no fee.​
+         </li>
+                <li> Basic Easy Fix - $50 for 1 hour minimum, $15 per quarter hour after that.</li>
+  
+        <li>To book an appointment, shoot me an email with information about your amp, and the issue(s) you are experiencing. Note, it can take a few days for me to respond.
+</li>
+
+        <li>See the Repairs section for more details and shop policy.</li>
+
+     </ul>
+        <figure>
+      <img src="images/dymos_2.jpg" alt="Dymos Amp" class="dymos">
+        <figcaption>Sunn Dymos Combo Amp</figcaption>
+        </figure>
+    </article>
+          </main>
+    <article class="identity">
+      <h2>Ecology</h2>
+      <p>
+        Any electronic components or systems, manufactured before 2006, will most likely contain lead solder and other hazardous substances. Repairing or restoring broken gear will help keep electronic waste from ending up in the landfill while also not requiring new resorces to be used to produce your sound.
+      </p>
+      <p>
+        
+          <img src="images/dbicon_small.png" alt="dB Icon" class="dbicon">
+        
+      
+      </p>
+      
+    </article>
+     
+    
+     <p>
+       This site is dedicated to the memory of Douglas "Enzo" McCallum - all rights reserved.
+     </p>
+    <footer>
+      <a class=gallery href="gallery.html">Gallery</a>
+      <a class=repairs href="repair.html">Repairs</a>
+      <a class=projects href="project.html">Projects</a>
+      <a class=sales href="sales.html">Sales</a>
+      <a class=about href="about.html">About</a>
+    </footer>
+ 
+ 
+   
+ </div>
+</body>
+
+</html>
